@@ -7,6 +7,104 @@
     <link rel="stylesheet" type="text/css" href="3.css">
 </head>
 <body>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Poppins:wght@600&display=swap');
+
+body{
+    height: 80vh;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Poppins', sans-serif;
+    background-image: linear-gradient(to right, #4daf54, #3d8888);
+    display: flex;
+}
+.card{
+    width: 300px;
+    height: 450px;
+    color: white;
+    border-radius: 10px;
+    padding: 50px;
+    background-color: black;
+}
+.card_avt{
+    width: 190px;
+    height: 200px;
+    border-radius: 50%;
+    overflow: hidden;
+    
+    background-color: aliceblue;
+    margin-left: 50px;
+    border: 3px solid #4daf54;
+}
+
+.name{
+    margin-top: 10px;
+
+    margin-left: 65px ;
+    font-size: 30px;
+}
+
+.descript{
+    margin-left:  55px;
+    
+    color: #2fb484;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.icon{
+    padding: 2px 5px;
+   
+    align-items: center;
+    display: flex;
+    margin: 50px 0;
+}
+
+ .phone, .zalo, .tele, .dis{
+    margin-left: -10px;
+    margin-right: 80px;
+    align-items: center;
+    display: flex;
+    
+ }
+
+ .phone:hover{
+    outline:1px outset  #0c572e  ;
+    transition: 0.3s;
+
+ }
+ .zalo:hover{
+    outline:1px outset  #0c572e  ;
+    transition: 0.3s;
+
+ }
+ .tele:hover{
+    outline:1px outset  #0c572e  ;
+    transition: 0.3s;
+
+ }
+ .dis:hover{
+    outline:1px outset  #0c572e  ;
+    transition: 0.3s;
+
+ }
+
+ .more button{
+    align-items: center;
+    background-color: black;
+    border-radius: 10px;
+    width: 125px;
+    height: 50px;
+    border: none;
+    outline: 2px solid #2fb484;
+    color: aliceblue;
+    margin: 0 10px;
+ }
+ .more button:hover{
+    background:#0c572e ;
+    transition: 0.3s;
+ }
+
+    </style>
     <div class="card">
         <div class="card_avt">
             <img src="https://scontent.fhph1-2.fna.fbcdn.net/v/t39.30808-6/347838927_200476546246155_7328945691959368176_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=a2f6c7&_nc_ohc=-1NIg3TzGd4AX-RJlmF&_nc_ht=scontent.fhph1-2.fna&oh=00_AfCax39ShSnzSJcPZ61mZhlIEQVm3Wt0JIOkqE5q7XiHrw&oe=650427A7" width="200px" height="200px">
