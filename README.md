@@ -3,7 +3,7 @@
 Hi, In there, It just about my journey and learnings in tech. An individual with some skills about Front-end web development, code basic for c++, sql, python, be knowledgeable about Design and looking for work as a Data Analyst. 
 *some notes: "i'm just a girl,i'm citi🎀"
 
-<img align="right" alt="image" src="https://github.com/vthuhien/vthuhien/blob/main/image.png" width="450">
+<img align="right" alt="image" src="https://github.com/vthuhien/vthuhien/blob/main/image.jpg" width="450">
 
 ### My value 🌱:
 
