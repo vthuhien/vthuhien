@@ -1,16 +1,7 @@
 # Vu thu hien 
-![Untitled-2](https://github.com/user-attachments/assets/dd597968-1de3-4ebd-b2b1-25842eec6f84)
-
-
-
-
-
-
-
-
-
 Hi, In there, It just about my journey and learnings in tech. A personal with some skills about Front-end web development, code basic for c++, sql and python, be knowledgeable about Design.I'm looking for work as Data Analyst.*some notes: "i'm just a girl,i'm citi🎀"
 
+<img align="right" alt="GIF" src="![image](https://github.com/user-attachments/assets/f7d24fc7-b7d1-45cd-8ada-424d4e2bb3f9)" width="360px"/>
 # My value :
       A sociable and open-minded individual</br>
       Eager to learn and modify</br>
