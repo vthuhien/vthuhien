@@ -23,6 +23,4 @@ Hi, In there, It just about my journey and learnings in tech. An individual with
 
 ### 📊 GitHub Stats:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vthuhien&text_color=c9cacc&layout=compact&bg_color=1d1f21&langs_count=8)
 
-&title_color=ffffff&icon_color=2bbc8a
