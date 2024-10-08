@@ -22,8 +22,10 @@ Hi, In there, It just about my journey and learnings in tech. An individual with
 - Most of my projects are available down there
 
 ### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vthuhien&theme=nord&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
+<a href="https://github.com/vthuhien/vthuhien">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vthuhien&layout=compact&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=8" /> 
+</a>
 <!--<a href="https://github.com/vthuhien/vthuhien">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vthuhien&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=8" /> 
 </a> -->
