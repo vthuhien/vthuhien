@@ -23,7 +23,8 @@ Hi, In there, It just about my journey and learnings in tech. An individual with
 
 ### 📊 GitHub Stats:
 
-![image](https://github.com/user-attachments/assets/13bb0525-e4fe-4e6f-8bcc-35a11288e6d9)
+![3](https://github.com/user-attachments/assets/d8c0c41b-9b5b-451b-92b7-285d696093a7)
+
 
 
 
