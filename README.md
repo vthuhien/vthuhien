@@ -23,4 +23,7 @@ Hi, In there, It just about my journey and learnings in tech. An individual with
 
 ### 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vthuhien&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![image](https://github.com/user-attachments/assets/13bb0525-e4fe-4e6f-8bcc-35a11288e6d9)
+
+
+
