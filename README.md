@@ -22,7 +22,6 @@ Hi, In there, It just about my journey and learnings in tech. An individual with
 - Most of my projects are available down there
 
 ### 📊 GitHub Stats:
-
 ![3](https://github.com/user-attachments/assets/d8c0c41b-9b5b-451b-92b7-285d696093a7)
 
 
