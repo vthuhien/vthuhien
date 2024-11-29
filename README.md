@@ -18,9 +18,10 @@ Hi, In there, It just about my journey and learnings in tech. An individual with
 
 - Certificate 650 Toeic</br>
 - Data visualization and give insight</br>
+- Skilled at working with GitHub and GitHub Codespaces</br>
 - Storytelling with graphs and charts</br>
-- Have customer service experience
-- Most of my projects are available down there
+- Having 2 years of customer service experience.
+
 
 ### 📊 GitHub Stats:
 ![3](https://github.com/user-attachments/assets/d8c0c41b-9b5b-451b-92b7-285d696093a7)
