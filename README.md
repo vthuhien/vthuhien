@@ -19,7 +19,7 @@ Hi, In there, It just about my journey and learnings in tech. An individual with
 - Storytelling with graphs and charts</br>
 - Having 2 years of customer service experience. </br>
 </br>
-
+</br>
 
 ### ✨I’ve got some SQL portfolio projects [here](https://github.com/vthuhien/Portfolio_project), but they’re still in progress ୨ৎ
 
