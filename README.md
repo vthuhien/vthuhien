@@ -9,6 +9,24 @@ Hi, In there, It just about my journey and learnings in tech. An individual with
 
 
 
+### Details 📝: 
+
+- Certificate 650 Toeic</br>
+- Data visualization and give insight</br>
+- Skilled at working with GitHub and GitHub Codespaces</br>
+- Storytelling with graphs and charts</br>
+- Having 2 years of customer service experience 
+- Proficient in office information technology and tools.</br>
+
+### ✨I’ve got some SQL portfolio projects [here](https://github.com/vthuhien/Portfolio_project), but they’re still in progress ୨ৎ
+
+![banner1](https://github.com/user-attachments/assets/8b791315-1364-4618-a68b-93c4a3b7c01b)
+
+
+### 📊 GitHub Stats:
+![3](https://github.com/user-attachments/assets/d8c0c41b-9b5b-451b-92b7-285d696093a7)
+
+
 
 
 
