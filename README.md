@@ -2,8 +2,9 @@
 
 
 Hi, In there, It just about my journey and learnings in tech. An individual with some skills about Front-end web development, code basic for c++, sql, python, be knowledgeable about Design by using PhotoPea, Corel and Adobe Photoshop. I'm looking for work as a Data Analyst. </br>
-*some notes: "i'm just a girl,i'm citi🎀" </br>
-<img align="right" alt="image" src="https://github.com/vthuhien/vthuhien/blob/main/image.jpg" width="450"> </br>
+*some notes: "i'm just a girl,i'm citi🎀" 
+
+<img align="right" alt="image" src="https://github.com/vthuhien/vthuhien/blob/main/image.jpg" width="450"> 
 
 ### My value 🌱:
 - A sociable and open-minded person</br>
@@ -17,7 +18,6 @@ Hi, In there, It just about my journey and learnings in tech. An individual with
 - Skilled at working with GitHub and GitHub Codespaces</br>
 - Storytelling with graphs and charts</br>
 - Having 2 years of customer service experience. 
-
 
 ### ✨I’ve got some SQL portfolio projects [here](https://github.com/vthuhien/Portfolio_project), but they’re still in progress ୨ৎ
 
