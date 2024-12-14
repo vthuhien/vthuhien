@@ -5,7 +5,7 @@ Hi, In there, It just about my journey and learnings in tech. An individual with
 *some notes: "i'm just a girl,i'm citi🎀" </br> 
 <img align="right" alt="image" src="https://github.com/vthuhien/vthuhien/blob/main/image.jpg" width="450"> </br>
 
-#### My value 🌱:
+### My value 🌱:
 - A sociable and open-minded person</br>
 - Eager to learn and modify</br>
 - Good communication and relationships</br>
