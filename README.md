@@ -2,7 +2,7 @@
 
 
 Hi, In there, It just about my journey and learnings in tech. An individual with some skills about Front-end web development, code basic for c++, sql, python, be knowledgeable about Design by using PhotoPea, Corel and Adobe Photoshop. I'm looking for work as a Data Analyst. </br>
-*some notes: "i'm just a girl,i'm citi🎀" </br>
+*some notes: "i'm just a girl,i'm citi🎀" </br> <img align="right" alt="image" src="https://github.com/vthuhien/vthuhien/blob/main/image.jpg" width="450"> </br>
 
 
 
