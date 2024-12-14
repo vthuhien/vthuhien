@@ -20,6 +20,7 @@ Hi, In there, It just about my journey and learnings in tech. An individual with
 - Having 2 years of customer service experience. </br>
 </br>
 
+
 ### ✨I’ve got some SQL portfolio projects [here](https://github.com/vthuhien/Portfolio_project), but they’re still in progress ୨ৎ
 
 ![banner1](https://github.com/user-attachments/assets/8b791315-1364-4618-a68b-93c4a3b7c01b)
