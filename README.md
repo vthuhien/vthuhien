@@ -1,12 +1,11 @@
-<h2> Vu thu hien <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjZ5ZzBkZ2oyMzJhaHFlYmh6dm9jOHBrdTUzNnA0OGViZDRja2h2NiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/ue7Oh8WdVspgI/giphy.gif" width="50"></h2>
+<h2> Vu thu hien 🩰 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjZ5ZzBkZ2oyMzJhaHFlYmh6dm9jOHBrdTUzNnA0OGViZDRja2h2NiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/ue7Oh8WdVspgI/giphy.gif" width="50"></h2>
 
 
 Hi, In there, It just about my journey and learnings in tech. An individual with some skills about Front-end web development, code basic for c++, sql, python, be knowledgeable about Design by using PhotoPea, Corel and Adobe Photoshop. I'm looking for work as a Data Analyst. </br>
 *some notes: "i'm just a girl,i'm citi🎀"
 
-<img align="right" alt="image" src="https://github.com/vthuhien/vthuhien/blob/main/image.jpg" width="450">
-
-
+<img align="right" alt="image" src="https://github.com/vthuhien/vthuhien/blob/main/image.jpg" width="450"> </br>
+</br>
 
 ### My value 🌱:
 
@@ -20,7 +19,11 @@ Hi, In there, It just about my journey and learnings in tech. An individual with
 - Data visualization and give insight</br>
 - Skilled at working with GitHub and GitHub Codespaces</br>
 - Storytelling with graphs and charts</br>
-- Having 2 years of customer service experience.
+- Having 2 years of customer service experience. </br>
+
+
+### ✨I’ve got some SQL portfolio projects [here](https://github.com/vthuhien/Portfolio_project), but they’re still in progress ୨ৎ
+![banner1](https://github.com/user-attachments/assets/8b791315-1364-4618-a68b-93c4a3b7c01b)
 
 
 ### 📊 GitHub Stats:
