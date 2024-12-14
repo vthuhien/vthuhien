@@ -6,6 +6,7 @@ Hi, In there, It just about my journey and learnings in tech. An individual with
 
 <img align="right" alt="image" src="https://github.com/vthuhien/vthuhien/blob/main/image.jpg" width="450"> 
 
+
 ### My value 🌱:
 - A sociable and open-minded person</br>
 - Eager to learn and modify</br>
@@ -17,7 +18,8 @@ Hi, In there, It just about my journey and learnings in tech. An individual with
 - Data visualization and give insight</br>
 - Skilled at working with GitHub and GitHub Codespaces</br>
 - Storytelling with graphs and charts</br>
-- Having 2 years of customer service experience. 
+- Having 2 years of customer service experience 
+- Proficient in office information technology and tools.</br>
 
 ### ✨I’ve got some SQL portfolio projects [here](https://github.com/vthuhien/Portfolio_project), but they’re still in progress ୨ৎ
 
