@@ -5,10 +5,7 @@ Hi, In there, It just about my journey and learnings in tech. An individual with
 *some notes: "i'm just a girl,i'm citi🎀"
 
 <img align="right" alt="image" src="https://github.com/vthuhien/vthuhien/blob/main/image.jpg" width="450"> </br>
-</br>
-
 ### My value 🌱:
-
 - A sociable and open-minded person</br>
 - Eager to learn and modify</br>
 - Good communication and relationships</br>
@@ -20,7 +17,7 @@ Hi, In there, It just about my journey and learnings in tech. An individual with
 - Skilled at working with GitHub and GitHub Codespaces</br>
 - Storytelling with graphs and charts</br>
 - Having 2 years of customer service experience. </br>
-
+</br>
 
 ### ✨I’ve got some SQL portfolio projects [here](https://github.com/vthuhien/Portfolio_project), but they’re still in progress ୨ৎ
 ![banner1](https://github.com/user-attachments/assets/8b791315-1364-4618-a68b-93c4a3b7c01b)
