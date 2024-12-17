@@ -21,7 +21,7 @@ Hi, In there, It just about my journey and learnings in tech. An individual with
 ### ✨I’ve got some SQL portfolio projects [here](https://github.com/vthuhien/Portfolio_project), but they’re still in progress ୨ৎ
 
 ![banner1](https://github.com/user-attachments/assets/8b791315-1364-4618-a68b-93c4a3b7c01b)
-![banner1](https://github.com/user-attachments/assets/6a9e4090-a307-428c-90d5-47c253c749a2)
+<img align="right" alt="image" src="https://github.com/vthuhien/Portfolio_project/blob/main/des_psd/banner1.png" width="1000"> </br>
 
 
 
