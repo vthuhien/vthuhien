@@ -12,10 +12,13 @@ Hi, In there, It just about my journey and learnings in tech. An individual with
 
 - Certificate 650 Toeic</br>
 - Data visualization and give insight</br>
-- Skilled at working with GitHub and GitHub Codespaces</br>
+- Skilled at working with Codespaces and Github</br>
 - Storytelling with graphs and charts</br>
 - Having 2 years of customer service experience 
 - Proficient in office information technology and tools.</br>
+### My certs✨:
+![image](https://github.com/user-attachments/assets/34d99ba8-53ae-4760-a1f5-2768a35e04cb)
+
 
 ### ✨I’ve got some SQL portfolio projects [here](https://github.com/vthuhien/Portfolio_project), but they’re still in progress ୨ৎ
 
