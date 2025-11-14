@@ -10,7 +10,7 @@ Hi, In there, It just about my journey and learnings in tech. An individual with
 - Good communication and relationships</br>
 ### Details 📝: 
 
-- Certificate 650 Toeic</br>
+- Certificate 750 Toeic</br>
 - Data visualization and give insight</br>
 - Skilled at working with Codespaces and Github</br>
 - Storytelling with graphs and charts</br>
